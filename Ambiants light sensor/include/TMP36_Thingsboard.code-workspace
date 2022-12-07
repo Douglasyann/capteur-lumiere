@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../TMP36"
+		},
+		{
+			"name": "BUZZER",
+			"path": "../../BUZZER"
+		},
+		{
+			"name": "TMP36_Thingsboard",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
